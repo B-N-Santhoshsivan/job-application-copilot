@@ -1,0 +1,161 @@
+{
+  "jobs": [
+    {
+      "id": "JOB-101",
+      "title": "Junior Data Analyst",
+      "company": "Zoho Corporation",
+      "location": "Chennai, India",
+      "type": "Full-time",
+      "salary_range": "\u20b96,00,000 - \u20b99,00,000",
+      "skills_required": [
+        "Python",
+        "SQL",
+        "Tableau",
+        "Pandas",
+        "Data Cleaning",
+        "Statistics"
+      ],
+      "description": "Zoho is seeking an enthusiastic Junior Data Analyst to join our Business Analytics team. You will be responsible for transforming raw business metrics into actionable dashboards and SQL queries."
+    },
+    {
+      "id": "JOB-102",
+      "title": "Associate AI / ML Engineer",
+      "company": "TCS",
+      "location": "Bengaluru, India",
+      "type": "Full-time",
+      "salary_range": "\u20b97,50,000 - \u20b911,00,000",
+      "skills_required": [
+        "Python",
+        "PyTorch",
+        "LangChain",
+        "Vector Databases",
+        "REST APIs",
+        "Git"
+      ],
+      "description": "Join TCS Enterprise AI practice to build cutting-edge Generative AI applications and multi-agent workflows for global enterprise clients."
+    },
+    {
+      "id": "JOB-103",
+      "title": "Frontend Engineer (React)",
+      "company": "Freshworks",
+      "location": "Chennai, India",
+      "type": "Full-time",
+      "salary_range": "\u20b98,00,000 - \u20b912,00,000",
+      "skills_required": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "HTML5",
+        "CSS3",
+        "REST APIs"
+      ],
+      "description": "Freshworks is looking for a frontend specialist to craft fast, accessible, and delightful web interfaces for our customer engagement suite."
+    },
+    {
+      "id": "JOB-104",
+      "title": "Data Scientist Intern",
+      "company": "Flipkart",
+      "location": "Bengaluru, India",
+      "type": "Internship",
+      "salary_range": "\u20b940,000/month stipend",
+      "skills_required": [
+        "Python",
+        "Machine Learning",
+        "Scikit-Learn",
+        "SQL",
+        "Exploratory Data Analysis"
+      ],
+      "description": "Work alongside Flipkart's supply chain intelligence team on demand forecasting, pricing optimization, and recommendation engines."
+    }
+  ],
+  "applications": [
+    {
+      "id": "APP-001",
+      "company": "Freshworks",
+      "role": "Frontend Engineer",
+      "date": "2026-09-15",
+      "status": "Interview Scheduled",
+      "notes": "Reviewed React fundamentals and state management."
+    },
+    {
+      "id": "APP-002",
+      "company": "Zoho",
+      "role": "Data Analyst",
+      "date": "2026-10-05",
+      "status": "Drafted",
+      "notes": "Test note"
+    },
+    {
+      "id": "APP-003",
+      "company": "Zoho",
+      "role": "Junior Data Analyst",
+      "date": "2026-10-05",
+      "status": "Test Verified",
+      "notes": "Automated test note"
+    },
+    {
+      "id": "APP-004",
+      "company": "Zoho Corporation",
+      "role": "Junior Data Analyst",
+      "date": "2026-10-05",
+      "status": "Drafted - Cover Letter Ready",
+      "notes": "Generated via LangGraph copilot. Match score: 85/100."
+    },
+    {
+      "id": "APP-005",
+      "company": "Zoho Corporation",
+      "role": "Junior Data Analyst",
+      "date": "2026-10-05",
+      "status": "Drafted - Cover Letter Ready",
+      "notes": "Generated via LangGraph copilot. Match score: 85/100."
+    },
+    {
+      "id": "APP-006",
+      "company": "Zoho",
+      "role": "Junior Data Analyst",
+      "date": "2026-10-05",
+      "status": "Test Verified",
+      "notes": "Automated test note"
+    },
+    {
+      "id": "APP-007",
+      "company": "Zoho Corporation",
+      "role": "Junior Data Analyst",
+      "date": "2026-10-05",
+      "status": "Drafted - Cover Letter Ready",
+      "notes": "Generated via LangGraph copilot. Match score: 85/100."
+    },
+    {
+      "id": "APP-008",
+      "company": "Zoho",
+      "role": "Junior Data Analyst",
+      "date": "2026-10-05",
+      "status": "Test Verified",
+      "notes": "Automated test note"
+    },
+    {
+      "id": "APP-009",
+      "company": "Zoho Corporation",
+      "role": "Junior Data Analyst",
+      "date": "2026-10-05",
+      "status": "Drafted - Cover Letter Ready",
+      "notes": "Generated via LangGraph copilot. Match score: 85/100."
+    },
+    {
+      "id": "APP-010",
+      "company": "Zoho",
+      "role": "Junior Data Analyst",
+      "date": "2026-10-06",
+      "status": "Test Verified",
+      "notes": "Automated test note"
+    },
+    {
+      "id": "APP-011",
+      "company": "Zoho Corporation",
+      "role": "Junior Data Analyst",
+      "date": "2026-10-06",
+      "status": "Drafted - Cover Letter Ready",
+      "notes": "Generated via LangGraph copilot. Match score: 85/100."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+Dear Hiring Manager at Zoho Corporation,
+
+I am writing to express my strong enthusiasm for the Junior Data Analyst position within Zoho's Business Intelligence and Operations Analytics team in Chennai. Having closely followed Zoho's engineering-first philosophy, commitment to bootstrapped independence, and dedicated focus on sustainable product development, I would be honored to contribute to your global analytics operations.
+
+As a Computer Science and Engineering graduate from Anna University with a solid foundation in Python, relational SQL querying, and Tableau, my background directly aligns with your core requirements. In my academic projects, I extracted, cleaned, and analyzed over 150,000 transaction records using Pandas and SQL to identify seasonal churn trends, while developing interactive Tableau dashboards and automated stored procedures for daily KPI monitoring. Furthermore, during my data analytics internship at TechSphere Solutions, I audited client database schemas across commercial accounts and authored Python automation scripts that saved six manual reporting hours each week.
+
+Zoho's emphasis on solving real customer problems through privacy-conscious cloud applications resonates strongly with my values. I am excited to apply my data cleaning, statistical modeling, and dashboarding abilities to diagnose SaaS telemetry and generate actionable business intelligence for your departmental leadership teams. I appreciate that Zoho prioritizes foundational problem-solving and long-term customer value, and I am eager to expand my expertise into cloud data warehousing to support your growing data ecosystem.
+
+Thank you for your time and consideration. I welcome the opportunity to discuss how my technical skills, analytical mindset, and disciplined work ethic can support Zoho Corporation's mission.
+
+Sincerely,
+Santhosh Sivan
+santhosh.dev@example.com | Chennai, India

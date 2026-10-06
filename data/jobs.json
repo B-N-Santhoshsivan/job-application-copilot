@@ -1,0 +1,233 @@
+[
+  {
+    "job_id": "JOB-101",
+    "company": "Zoho Corporation",
+    "role": "Junior Data Analyst",
+    "location": "Chennai, India",
+    "description": "Zoho is seeking an enthusiastic Junior Data Analyst to join our Business Intelligence and Operations Analytics team. You will be responsible for transforming raw SaaS telemetry and operational metrics into actionable dashboards and high-performance SQL queries.",
+    "required_skills": ["Python", "SQL", "Tableau", "Pandas", "Data Cleaning", "Statistics"],
+    "preferred_skills": ["Snowflake", "BigQuery", "Airflow", "SaaS Metrics (ARR/MRR)"],
+    "experience": "0-2 years (Entry / Graduate level)",
+    "employment_type": "Full-time"
+  },
+  {
+    "job_id": "JOB-102",
+    "company": "Tata Consultancy Services (TCS)",
+    "role": "Associate AI / ML Engineer",
+    "location": "Bengaluru, India",
+    "description": "Join TCS Enterprise AI practice to design and build cutting-edge Generative AI applications, RAG pipelines, and multi-agent workflows for global enterprise banking and healthcare clients.",
+    "required_skills": ["Python", "PyTorch", "LangChain", "Vector Databases", "REST APIs", "Git"],
+    "preferred_skills": ["Docker", "Kubernetes", "AWS SageMaker", "FastAPI"],
+    "experience": "0-2 years",
+    "employment_type": "Full-time"
+  },
+  {
+    "job_id": "JOB-103",
+    "company": "Freshworks",
+    "role": "Software Developer - Backend",
+    "location": "Chennai, India",
+    "description": "Freshworks is looking for a passionate Backend Software Developer to build high-concurrency microservices powering our customer engagement platform across 60,000+ businesses globally.",
+    "required_skills": ["Python", "FastAPI", "PostgreSQL", "Data Structures", "REST APIs", "Git"],
+    "preferred_skills": ["Redis", "Kafka", "Docker", "AWS"],
+    "experience": "0-2 years",
+    "employment_type": "Full-time"
+  },
+  {
+    "job_id": "JOB-104",
+    "company": "Flipkart",
+    "role": "Data Scientist Intern",
+    "location": "Bengaluru, India",
+    "description": "Work with Flipkart's core Supply Chain and Personalization data science teams. You will develop predictive models for demand forecasting, inventory allocation, and customer lifetime value.",
+    "required_skills": ["Python", "Machine Learning", "Scikit-Learn", "SQL", "Statistics", "Pandas"],
+    "preferred_skills": ["Spark", "Deep Learning", "A/B Testing", "Tableau"],
+    "experience": "Internship / Freshers",
+    "employment_type": "Internship"
+  },
+  {
+    "job_id": "JOB-105",
+    "company": "Infosys",
+    "role": "Python Developer",
+    "location": "Hyderabad, India",
+    "description": "Infosys is hiring a Python Developer to implement robust data ingestion pipelines, RESTful services, and automated workflow orchestrations for international retail clients.",
+    "required_skills": ["Python", "SQL", "Flask", "Linux", "Object-Oriented Programming", "Git"],
+    "preferred_skills": ["Django", "Celery", "PostgreSQL", "Docker"],
+    "experience": "1-3 years",
+    "employment_type": "Full-time"
+  },
+  {
+    "job_id": "JOB-106",
+    "company": "Swiggy",
+    "role": "Machine Learning Engineer",
+    "location": "Bengaluru, India",
+    "description": "Swiggy's Consumer Intelligence team is hiring an ML Engineer to deploy real-time recommendation algorithms, ETA prediction systems, and demand-supply matching engines.",
+    "required_skills": ["Python", "Machine Learning", "TensorFlow", "SQL", "FastAPI", "Data Pipelines"],
+    "preferred_skills": ["Feature Stores", "MLflow", "Kafka", "Kubernetes"],
+    "experience": "1-3 years",
+    "employment_type": "Full-time"
+  },
+  {
+    "job_id": "JOB-107",
+    "company": "Paytm",
+    "role": "Data Analyst",
+    "location": "Noida, India",
+    "description": "Paytm Payments Bank is looking for a Data Analyst to perform fraud detection analysis, transaction pattern monitoring, and KPI reporting for high-volume digital payments.",
+    "required_skills": ["SQL", "Python", "Power BI", "Excel", "Data Modeling", "Probability & Statistics"],
+    "preferred_skills": ["Presto", "Hive", "Python Scripting", "Fintech Domain Knowledge"],
+    "experience": "0-2 years",
+    "employment_type": "Full-time"
+  },
+  {
+    "job_id": "JOB-108",
+    "company": "Razorpay",
+    "role": "AI Engineer",
+    "location": "Bengaluru, India",
+    "description": "Join Razorpay's AI Innovation Lab to build autonomous customer support agents, document parsing pipelines, and risk underwriting models using modern LLMs and agentic architectures.",
+    "required_skills": ["Python", "LangChain", "OpenAI / Claude APIs", "FastAPI", "Vector DBs", "Prompt Engineering"],
+    "preferred_skills": ["LangGraph", "Fine-tuning", "ChromaDB", "Evaluation Frameworks"],
+    "experience": "1-3 years",
+    "employment_type": "Full-time"
+  },
+  {
+    "job_id": "JOB-109",
+    "company": "Amazon",
+    "role": "Software Development Engineer I (SDE 1)",
+    "location": "Chennai, India",
+    "description": "Amazon India is looking for an entry-level SDE to build and scale distributed cloud services for Amazon Prime and fulfillment logistics systems.",
+    "required_skills": ["Java / Python", "Data Structures & Algorithms", "System Design", "SQL", "Git"],
+    "preferred_skills": ["AWS Services (EC2, S3, DynamoDB)", "Microservices", "CI/CD"],
+    "experience": "0-2 years (Graduates welcome)",
+    "employment_type": "Full-time"
+  },
+  {
+    "job_id": "JOB-110",
+    "company": "Wipro",
+    "role": "Junior Cloud Solutions Engineer",
+    "location": "Pune, India",
+    "description": "Assist enterprise clients with multi-cloud deployments, server migrations, container management, and continuous infrastructure monitoring.",
+    "required_skills": ["Linux", "Bash Scripting", "Python", "Cloud Fundamentals (AWS/Azure)", "Networking"],
+    "preferred_skills": ["Terraform", "Docker", "Ansible", "Kubernetes"],
+    "experience": "0-2 years",
+    "employment_type": "Full-time"
+  },
+  {
+    "job_id": "JOB-111",
+    "company": "Cognizant",
+    "role": "Full Stack Developer",
+    "location": "Coimbatore, India",
+    "description": "Design responsive enterprise web portals and cloud backends for multinational financial institutions with an emphasis on code quality and accessibility.",
+    "required_skills": ["JavaScript", "React", "Python / Node.js", "SQL", "HTML5", "CSS3"],
+    "preferred_skills": ["TypeScript", "Tailwind CSS", "MongoDB", "Jest"],
+    "experience": "1-3 years",
+    "employment_type": "Full-time"
+  },
+  {
+    "job_id": "JOB-112",
+    "company": "Zomato",
+    "role": "Analytics Engineer",
+    "location": "Gurugram, India",
+    "description": "Model raw operational telemetry into clean dimensional models using dbt and Snowflake to empower marketing, sales, and supply chain analysts across Zomato & Blinkit.",
+    "required_skills": ["SQL", "dbt", "Data Modeling", "Python", "Git", "Data Warehousing"],
+    "preferred_skills": ["Snowflake", "Airflow", "Tableau", "Looker"],
+    "experience": "1-3 years",
+    "employment_type": "Full-time"
+  },
+  {
+    "job_id": "JOB-113",
+    "company": "Postman",
+    "role": "Developer Relations / Solutions Engineer",
+    "location": "Bengaluru, India",
+    "description": "Help developers across the globe build, test, and monitor APIs using Postman. Create reference implementations, tutorials, and integration SDKs in Python and JavaScript.",
+    "required_skills": ["REST APIs", "Python", "JavaScript", "Technical Writing", "Git", "Postman Collections"],
+    "preferred_skills": ["GraphQL", "FastAPI", "OpenAPI Specification", "Docker"],
+    "experience": "0-2 years",
+    "employment_type": "Full-time"
+  },
+  {
+    "job_id": "JOB-114",
+    "company": "Ola Electric",
+    "role": "Firmware & Python Test Engineer",
+    "location": "Bengaluru, India",
+    "description": "Develop automated hardware-in-the-loop (HIL) test suites using Python to validate EV battery management systems and onboard telematics software.",
+    "required_skills": ["Python", "Object-Oriented Programming", "Linux", "Automated Testing", "Git"],
+    "preferred_skills": ["CAN protocol", "PyTest", "Embedded C basics", "CI/CD"],
+    "experience": "1-3 years",
+    "employment_type": "Full-time"
+  },
+  {
+    "job_id": "JOB-115",
+    "company": "Groww",
+    "role": "Product Analyst",
+    "location": "Bengaluru, India",
+    "description": "Partner with fintech product managers to analyze user funnels, investment drop-offs, and feature adoption using SQL, Mixpanel, and Python statistical libraries.",
+    "required_skills": ["SQL", "Python", "Product Analytics", "A/B Testing", "Excel", "Data Visualization"],
+    "preferred_skills": ["Tableau", "Amplitude", "Cohort Analysis", "Fintech regulations"],
+    "experience": "0-2 years",
+    "employment_type": "Full-time"
+  },
+  {
+    "job_id": "JOB-116",
+    "company": "Cred",
+    "role": "Backend Engineer - Platform",
+    "location": "Bengaluru, India",
+    "description": "Build high-throughput transaction ledger microservices and notification pipelines powering millions of credit card bill payments per hour.",
+    "required_skills": ["Java / Go / Python", "PostgreSQL", "Redis", "Distributed Systems", "Data Structures"],
+    "preferred_skills": ["Kafka", "Docker", "AWS", "gRPC"],
+    "experience": "1-3 years",
+    "employment_type": "Full-time"
+  },
+  {
+    "job_id": "JOB-117",
+    "company": "Jio Platforms",
+    "role": "Data Engineer",
+    "location": "Navi Mumbai, India",
+    "description": "Ingest and process petabyte-scale telecom and digital entertainment log streams using Apache Spark, Kafka, and distributed data lakes.",
+    "required_skills": ["Python", "SQL", "Apache Spark", "Linux", "Hadoop / Distributed Storage"],
+    "preferred_skills": ["Scala", "Kafka", "Airflow", "Cloud Lakehouse"],
+    "experience": "1-3 years",
+    "employment_type": "Full-time"
+  },
+  {
+    "job_id": "JOB-118",
+    "company": "PhonePe",
+    "role": "Associate QA Automation Engineer",
+    "location": "Bengaluru, India",
+    "description": "Design end-to-end automation test frameworks for mobile payment apps and backend APIs, ensuring 99.99% transaction reliability.",
+    "required_skills": ["Python / Java", "Selenium / Appium", "API Testing (Postman/Requests)", "Git", "SQL"],
+    "preferred_skills": ["PyTest", "CI/CD Jenkins", "Performance Testing (JMeter)"],
+    "experience": "0-2 years",
+    "employment_type": "Full-time"
+  },
+  {
+    "job_id": "JOB-119",
+    "company": "HCL Technologies",
+    "role": "Database Administrator (Junior)",
+    "location": "Chennai, India",
+    "description": "Monitor and optimize high-availability PostgreSQL and Oracle database instances, manage automated backup strategies, and assist application teams with index tuning.",
+    "required_skills": ["SQL", "PostgreSQL / MySQL", "Database Performance Tuning", "Linux", "Bash"],
+    "preferred_skills": ["Replication", "Database Backup / Restore", "Python Scripting"],
+    "experience": "1-3 years",
+    "employment_type": "Full-time"
+  },
+  {
+    "job_id": "JOB-120",
+    "company": "InMobi",
+    "role": "Machine Learning Research Analyst",
+    "location": "Bengaluru, India",
+    "description": "Develop contextual ad ranking algorithms, click-through rate (CTR) estimators, and computer vision creative analyzers for global digital advertising.",
+    "required_skills": ["Python", "Machine Learning", "Scikit-Learn", "Statistics", "SQL", "Pandas"],
+    "preferred_skills": ["PyTorch", "XGBoost", "Deep Learning", "Spark"],
+    "experience": "0-2 years",
+    "employment_type": "Full-time"
+  },
+  {
+    "job_id": "JOB-121",
+    "company": "L&T Technology Services",
+    "role": "Embedded Software & Python Developer",
+    "location": "Mysuru, India",
+    "description": "Build automated validation tools and smart IoT edge diagnostics using Python and C/C++ for automotive and aerospace components.",
+    "required_skills": ["Python", "C/C++", "Linux", "Git", "Serial Communication"],
+    "preferred_skills": ["Raspberry Pi / Arduino", "MQTT", "Socket Programming"],
+    "experience": "0-2 years",
+    "employment_type": "Full-time"
+  }
+]

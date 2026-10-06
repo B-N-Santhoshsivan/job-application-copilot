@@ -1,0 +1,30 @@
+Company: Zoho Corporation
+Role: Junior Data Analyst
+Location: Chennai, India (On-site / Hybrid)
+Department: Business Intelligence & Operations Analytics
+
+ABOUT ZOHO
+Zoho Corporation is a leading global technology company headquartered in Chennai, India, offering a comprehensive suite of cloud software applications for over 100 million users worldwide. Known for our engineering-first culture, long-term focus, and bootstrapped growth.
+
+JOB OVERVIEW
+We are seeking a talented and proactive Junior Data Analyst to partner with cross-functional product and operations teams. You will turn large volumes of SaaS telemetry and business operations data into clear, actionable executive insights.
+
+KEY RESPONSIBILITIES
+- Write high-performance SQL queries to extract, transform, and aggregate data from distributed databases.
+- Design, build, and maintain interactive business intelligence dashboards using Tableau, Power BI, or Zoho Analytics.
+- Perform exploratory data analysis and root-cause investigations to diagnose shifts in key SaaS operational metrics (churn, LTV, conversion funnels).
+- Collaborate with software engineers to define tracking telemetry schemas and ensure high data quality.
+- Synthesize technical analysis into structured reports and presentations for departmental leaders.
+
+MINIMUM QUALIFICATIONS
+- Bachelor's degree in Computer Science, Engineering, Statistics, Mathematics, or related quantitative field.
+- Proficiency in Python (specifically Pandas, NumPy) and relational database querying with SQL.
+- Practical experience designing BI dashboards (Tableau, Power BI, or equivalent).
+- Strong foundation in exploratory data analysis and descriptive statistics.
+- Good communication skills to present findings to non-technical stakeholders.
+
+PREFERRED QUALIFICATIONS (BONUS)
+- Familiarity with cloud data warehouses (e.g., Snowflake, BigQuery, or Amazon Redshift).
+- Working knowledge of version control (Git) and automated data pipelines / Airflow.
+- Experience with SaaS subscription metrics (MRR, ARR, CAC, Churn).
+- Curiosity for Generative AI and automated analytical workflows.

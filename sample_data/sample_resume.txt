@@ -1,0 +1,42 @@
+SANTHOSH SIVAN
+Chennai, Tamil Nadu, India | santhosh.dev@example.com | linkedin.com/in/santhosh-sample | github.com/santhosh-sample
+
+OBJECTIVE
+Aspiring and results-driven Data Analyst / Software Developer with solid foundations in Python, SQL data querying, statistical modeling, and web dashboards. Passionate about solving real-world business problems using data insights and agentic AI systems.
+
+EDUCATION
+B.Tech in Computer Science and Engineering
+Anna University, Chennai, India (2022 - 2026) | CGPA: 8.7 / 10.0
+Relevant Coursework: Database Management Systems, Data Structures & Algorithms, Probability & Statistics, Object-Oriented Programming, Machine Learning Basics.
+
+TECHNICAL SKILLS
+- Programming: Python, SQL (PostgreSQL, MySQL), JavaScript (ES6+), C++
+- Data Analytics & Tools: Pandas, NumPy, Matplotlib, Seaborn, Tableau, Microsoft Excel (Advanced formulas, Pivot Tables)
+- Frameworks & Libraries: Flask, FastAPI, LangChain (Basics), Scikit-Learn
+- Databases & Developer Tools: PostgreSQL, SQLite, Git, GitHub, VS Code, Linux
+
+ACADEMIC PROJECTS
+1. E-Commerce Sales Performance & Retention Dashboard
+   - Extracted and cleaned 150,000+ transaction records using Python (Pandas) and SQL.
+   - Built interactive Tableau and Seaborn visualizations to identify seasonal churn trends, boosting simulated marketing ROI by 18%.
+   - Designed automated SQL stored procedures for daily KPI reporting (Revenue, Customer Acquisition Cost, AOV).
+
+2. Customer Churn Prediction Engine
+   - Implemented Logistic Regression and Random Forest models using Scikit-Learn achieving 84% accuracy.
+   - Conducted exploratory data analysis, missing-value imputation, feature engineering, and cross-validation.
+   - Deployed a lightweight inference API using FastAPI.
+
+3. Student Attendance Tracking Portal
+   - Developed a responsive web portal using Python (Flask) and PostgreSQL with role-based access control.
+   - Integrated automated email alerts for students falling below the 75% attendance threshold.
+
+INTERNSHIP EXPERIENCE
+Data Analytics Intern | TechSphere Solutions, Chennai (June 2025 - August 2025)
+- Collaborated with senior analysts to audit and validate client database schemas across 5 commercial accounts.
+- Automated weekly performance summaries using Python scripts, saving the client delivery team 6 manual hours per week.
+- Authored technical documentation and SQL query playbooks for incoming interns.
+
+CERTIFICATIONS & ACHIEVEMENTS
+- Google Data Analytics Professional Certificate (Coursera)
+- SQL Advanced Certification (HackerRank)
+- 1st Place - College Data Hackathon 2025 (Predictive Supply Chain Model)

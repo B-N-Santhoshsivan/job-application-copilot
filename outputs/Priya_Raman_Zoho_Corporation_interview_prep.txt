@@ -1,0 +1,96 @@
+### Comprehensive Interview Preparation Guide
+
+#### 1. Technical Questions (At least 10)
+1. **Explain the execution order of a SQL query (FROM -> WHERE -> GROUP BY -> HAVING -> SELECT -> ORDER BY -> LIMIT).**
+   - *Interviewer Testing:* Core relational algebra and query compilation understanding.
+   - *Suggested Approach:* Walk through each clause's logical evaluation stage clearly.
+   - *Resume Evidence:* Relational database coursework & advanced SQL certification [Resume: Section 'Technical Skills'].
+2. **How do you handle NULL values in aggregations vs JOIN conditions in SQL?**
+   - *Interviewer Testing:* Handling of three-valued boolean logic (TRUE, FALSE, UNKNOWN).
+   - *Suggested Approach:* Explain COALESCE, IS NULL, and why NULL = NULL evaluates to UNKNOWN.
+3. **What is the difference between ROW_NUMBER(), RANK(), and DENSE_RANK()?**
+   - *Interviewer Testing:* Window functions and analytical partition handling.
+   - *Suggested Approach:* Use a concrete tie-breaking scenario (e.g., scores 100, 100, 95).
+4. **How would you optimize a query that takes 45 seconds to scan a 10-million row table?**
+   - *Interviewer Testing:* Indexing, query plans, partitioning, and resource awareness.
+   - *Suggested Approach:* Discuss `EXPLAIN ANALYZE`, adding B-Tree composite indexes, removing `SELECT *`, and partition pruning.
+5. **In Pandas, what is the difference between `loc`, `iloc`, and boolean masking?**
+   - *Interviewer Testing:* Python dataframe slicing efficiency.
+   - *Suggested Approach:* Label-based indexing vs integer index positioning.
+6. **How do you detect and handle data leakage when preparing a machine learning dataset?**
+   - *Interviewer Testing:* ML pipeline hygiene.
+   - *Suggested Approach:* Ensure train-test split occurs before imputation and scaling. Cite customer churn project [Resume: Section 'Academic Projects'].
+7. **Explain the trade-offs between Star Schema and Snowflake Schema in data warehousing.**
+   - *Interviewer Testing:* Dimensional data modeling.
+   - *Suggested Approach:* Star schema has denormalized dimension tables for faster reads; Snowflake schema normalizes dimensions to save storage.
+8. **How would you compute rolling 7-day average revenue using SQL?**
+   - *Interviewer Testing:* Frame specifications in window functions.
+   - *Suggested Approach:* Use `AVG(revenue) OVER (ORDER BY date ROWS BETWEEN 6 PRECEDING AND CURRENT ROW)`.
+9. **What statistical test would you use to verify if a drop in user retention is statistically significant?**
+   - *Interviewer Testing:* Applied statistics & hypothesis testing.
+   - *Suggested Approach:* Two-sample Z-test for proportions or Chi-Square contingency test.
+10. **How do you maintain data consistency when building automated KPI reporting pipelines?**
+    - *Interviewer Testing:* Data validation and schema contracts.
+    - *Suggested Approach:* Implement assertion checks for unique keys, non-null constraints, and automated alerting on anomalies.
+
+#### 2. Resume-Based Questions (At least 5)
+1. **Walk me through how you processed 150,000+ records in your E-Commerce Sales Performance Dashboard project.**
+   - *Interviewer Testing:* Real-world data wrangling capability.
+   - *Resume Evidence:* [Resume: Section 'Academic Projects' - E-Commerce Dashboard].
+   - *Suggested Approach:* Highlight handling missing timestamps and memory-efficient chunking in Pandas.
+2. **How did your customer churn model achieve 84% accuracy, and what features were most predictive?**
+   - *Interviewer Testing:* Applied machine learning rigor.
+   - *Resume Evidence:* [Resume: Section 'Academic Projects' - Churn Engine].
+   - *Suggested Approach:* Discuss feature importance in Random Forest and hyperparameter tuning.
+3. **During your internship at TechSphere Solutions, how did you identify schema audit issues?**
+   - *Interviewer Testing:* Professional audit experience and client communication.
+   - *Resume Evidence:* [Resume: Section 'Internship Experience'].
+   - *Suggested Approach:* Explain writing automated verification scripts to detect unindexed foreign keys and orphaned rows.
+4. **How did your Python scripts save 6 manual hours per week at TechSphere Solutions?**
+   - *Interviewer Testing:* Process automation mindset and business value delivery.
+   - *Resume Evidence:* [Resume: Section 'Internship Experience'].
+   - *Suggested Approach:* Detail replacing manual CSV formatting with automated Python report generation.
+5. **How have your certifications (Google Data Analytics, HackerRank SQL) shaped your practical problem-solving?**
+   - *Interviewer Testing:* Continuous learning and verified competence.
+   - *Resume Evidence:* [Resume: Section 'Certifications & Achievements'].
+   - *Suggested Approach:* Emphasize disciplined query design and stakeholder-oriented dashboard design.
+
+#### 3. Behavioral Questions (STAR Framework - At least 5)
+1. **Describe a time you faced ambiguous requirements when working on a project.**
+   - *Testing:* Adaptability and requirement clarification.
+   - *STAR Blueprint:*
+     - **Situation:** College data hackathon project with unstructured supply chain data.
+     - **Task:** Build predictive model within 24 hours without predefined targets.
+     - **Action:** Formulated specific business questions with team, created baseline exploratory charts.
+     - **Result:** Secured 1st place among 40 participating teams [Resume: Section 'Achievements'].
+2. **Tell me about a situation where you had to learn a new tool quickly.**
+   - *Testing:* Learning agility.
+   - *STAR Blueprint:* Adopted FastAPI to deploy inference endpoints for the churn project within days.
+3. **Describe a time you received constructive feedback on your code or analysis.**
+   - *Testing:* Humility, team collaboration, and receptiveness to feedback.
+   - *STAR Blueprint:* Senior analyst during internship suggested optimizing a slow cursor loop into a set-based SQL statement.
+4. **How do you prioritize multiple deadlines when working on parallel projects?**
+   - *Testing:* Time management and disciplined execution.
+   - *STAR Blueprint:* Balancing final year coursework with internship deliverables using structured task boards.
+5. **Give an example of explaining a complex data finding to someone without a technical background.**
+   - *Testing:* Communication and translation of analytics into business insights.
+   - *STAR Blueprint:* Presented retention trends to marketing leads using visual Tableau charts rather than statistical terminology.
+
+#### 4. Company-Specific Questions (At least 5)
+1. **Why do you want to join Zoho Corporation specifically instead of a VC-funded startup?**
+   - *Testing:* Alignment with Zoho's unique culture and long-term philosophy.
+   - *Suggested Approach:* Emphasize admiration for Zoho's bootstrapped independence, engineering pride, and rural revitalization.
+2. **Zoho builds its own software stack from the ground up. How comfortable are you working with proprietary tools?**
+   - *Testing:* Curiosity, open-mindedness, and willingness to adapt.
+   - *Suggested Approach:* Express eager enthusiasm to master Zoho Analytics and internal telemetry infrastructures.
+3. **How would you define and measure user engagement for a business application like Zoho Books or Zoho CRM?**
+   - *Testing:* SaaS product metrics acumen.
+   - *Suggested Approach:* Propose Daily Active Users / Monthly Active Users (DAU/MAU), feature adoption velocity, and workflow completion rates.
+4. **Zoho maintains a strict privacy policy with zero ad tracking. How does this impact your approach to user telemetry?**
+   - *Testing:* Ethical data stewardship.
+   - *Suggested Approach:* Emphasize data anonymization, aggregate metric tracking, and respecting user data governance.
+5. **What questions do you have for the Zoho engineering team? (Reverse-Interviewing)**
+   - *Suggested Questions to Ask:*
+     - "How does the BI team collaborate with product engineering when launching new Zoho One applications?"
+     - "What does the typical onboarding journey look like for a graduate data analyst in the Chennai analytics team?"
+     - "How is Zoho incorporating multi-agent AI workflows into internal operational diagnostics?"

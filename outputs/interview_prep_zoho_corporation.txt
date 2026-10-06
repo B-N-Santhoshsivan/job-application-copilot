@@ -1,0 +1,11 @@
+### Zoho Junior Data Analyst - Interview Preparation Sheet
+
+#### 1. Technical Questions:
+- **Q1: Explain how you would optimize a slow-running SQL query joining 5 tables with millions of records.**
+  *Answer Tip:* Mention EXPLAIN plans, creating targeted indexes, avoiding SELECT *, and leveraging CTEs or temporary tables.
+- **Q2: Walk me through a data cleaning challenge you encountered in your projects.**
+  *Answer Tip (STAR framework):* Cite your E-commerce project [Resume: Section 'Academic Projects'] where you handled null values and inconsistent dates using Pandas.
+
+#### 2. Company & Behavioral Questions:
+- **Q3: Why Zoho rather than a VC-funded startup or traditional IT consultancy?**
+  *Answer Tip:* Highlight Zoho's bootstrapped independence, long-term product vision, and Chennai engineering heritage.
